@@ -166,7 +166,7 @@ img {
 .letter span {
   position: relative;
   display: inline-block;
-  font-family: 'BadMofo';
+  /*font-family: 'BadMofo';*/
   font-size: 280px;
   filter: brightness(0.25) saturate(0.75) !important;
 }
